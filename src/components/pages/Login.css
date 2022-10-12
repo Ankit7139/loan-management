@@ -1,0 +1,24 @@
+.container > form {
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  width: 30%;
+  border: 1px solid #e3dddd;
+  background: rgb(249, 246, 246);
+}
+
+pre {
+  width: 100%;
+  color: rgb(228, 204, 20);
+  font-size: larger;
+}
+
+button {
+  background: #17c17a !important;
+}
+
+p {
+  color: rgb(98, 25, 207);
+}

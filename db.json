@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "firstname": "Sanjeev",
+      "lastname": "Kapoor",
+      "email": "sankpoor@gmai.com",
+      "phone": "9875423678",
+      "occupation": "Chef",
+      "income": "50000",
+      "loantype": "Home Loan",
+      "loanamount": "1000000",
+      "id": 1
+    }
+  ]
+}
